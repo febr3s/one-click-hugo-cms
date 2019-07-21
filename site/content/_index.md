@@ -5,11 +5,13 @@ subtitle: >-
   público
 image: /img/captura-de-pantalla-de-2019-07-21-14-58-20.png
 blurb:
-  heading: ¿literaturavenezolana.xyz?
+  heading: Este sitio
   text: >-
     Esta aplicación web (en construcción) es la primera de una serie más amplia,
     para la consulta y descarga gratuita de obras de dominio público
-    latinoamericano. 
+    latinoamericano. En su versión final, este sitio permite relacionar, en
+    listas dinámicas, obras y autores con fechas, editoriales, repositorios
+    virtuales, nubes de palabras y lugares. 
 intro:
   heading: ¿Quieres participar?
   text: >-
