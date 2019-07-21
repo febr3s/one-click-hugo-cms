@@ -1,24 +1,23 @@
 ---
 title: Creamos productos para liberar contenidos
-subtitle: >-
-  Impulsamos la gestión autoustentable de obras latinoamericanas de dominio
-  público
+subtitle: Impulsamos la gestión autoustentable de archivos digitales latinoamericanos
 image: /img/captura-de-pantalla-de-2019-07-21-14-58-20.png
 blurb:
   heading: Este sitio
   text: >-
-    Esta aplicación web (en construcción) es la primera de una serie más amplia,
-    para la consulta y descarga gratuita de obras de dominio público
-    latinoamericano. En su versión final, este sitio permite relacionar, en
-    listas dinámicas, obras y autores con fechas, editoriales, repositorios
-    virtuales, nubes de palabras y lugares. 
+    literaturavenezolana.xyz (en construcción) es la primera aplicación de
+    MOREL: una metodología de código abierto, para la consulta y descarga
+    gratuita de obras de dominio público latinoamericano, en archivos digitales
+    gestionables de forma cooperativa y autosustentable. 
 intro:
-  heading: ¿Quieres participar?
+  heading: ¿Cómo funciona?
   text: >-
-    literaturavenezolana.xyz está siendo desarrollado por el proyecto
-    cooperativo MOREL, sin ningún recurso de entidades privadas o públicas. Para
-    cubrir gastos creamos algunos productos de indumentaria. Con cada compra  en
-    nuestra tienda
+    En su versión final, las apps MOREL permiten relacionar, en listas
+    dinámicas, obras y autores con fechas, editoriales, repositorios virtuales,
+    nubes de palabras y lugares. Este servicio, de consolidación y organización
+    de las obras de dominio público disponibles para la descarga gratuita en
+    formato digital, genera conversiones a través de la venta de productos
+    asociados.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
