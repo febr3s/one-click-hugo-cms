@@ -13,24 +13,23 @@ intro:
   heading: ¿Cómo funciona?
   text: >-
     En su versión final, las apps MOREL permiten relacionar, en listas
-    dinámicas, obras y autores con fechas, editoriales, repositorios virtuales,
-    nubes de palabras y lugares. El tráfico generado por este servicio, de
-    consolidación, organización y puesta a disposición de obras para la descarga
-    gratuita en formato digital, genera conversiones a través de la venta de
-    productos asociados.
+    dinámicas, obras gratuitas descargables con autores, fechas, editoriales,
+    repositorios virtuales, nubes de palabras y lugares. El tráfico generado por
+    este servicio, genera conversiones a través de la venta de productos
+    asociados.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/litven.gif
+    text: >-
+      Las apps MOREL son como una gran librería digital gratuita, donde los
+      usuarios también tienen la opción de comprar productos asociados:
+      versiones impresas o .mobi de las mismas obras, indumentaria, o
+      dispositivos de tinta electrónica.
+  - image: /img/illustrations-coffee-gear.svg
     text: >-
       Los recursos generados sirven para crear nuevos productos: indumentaria,
       ediciones especiales para dispositivos de tinta electrónica, nuevas apps
       con corpus de otros países, talleres de formación o productos
       audiovisuales.
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      Las aps MOREL son como una gran librería digital gratuita, donde los
-      usuarios también tienen la opción de comprar productos asociados:
-      versiones impresas o .mobi de las mismas obras, indumentaria, o
-      dispositivos de tinta electrónica.
 values:
   heading: Metodología cooperativa
   text: >-
