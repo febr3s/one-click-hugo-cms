@@ -9,9 +9,7 @@ blurb:
   text: >-
     Esta aplicación web (en construcción) es la primera de una serie más amplia,
     para la consulta y descarga gratuita de obras de dominio público
-    latinoamericano. En su versión final, este sitio permite relacionar, en
-    listas dinámicas, obras y autores con fechas, editoriales, repositorios
-    virtuales, nubes de palabras y lugares. 
+    latinoamericano. 
 intro:
   heading: ¿Quieres participar?
   text: >-
