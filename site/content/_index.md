@@ -21,15 +21,16 @@ intro:
 products:
   - image: img/illustrations-coffee.svg
     text: >-
-      Los recursos generados sirven para crear nuevos productos, como ediciones
-      especiales para dispositivos de tinta electrónica, nuevas apps con corpus
-      de otros países, talleres de formación, productos audiovisuales.
+      Los recursos generados sirven para crear nuevos productos: indumentaria,
+      ediciones especiales para dispositivos de tinta electrónica, nuevas apps
+      con corpus de otros países, talleres de formación o productos
+      audiovisuales.
   - image: /img/illustrations-coffee-gear.svg
     text: >-
       Las aps MOREL son como una gran librería digital gratuita, donde los
-      usuarios también tienen la opción de comprar productos asociados, como
-      versiones impresas de las mismas obras, indumentaria, o dispositivos de
-      tinta electrónica
+      usuarios también tienen la opción de comprar productos asociados:
+      versiones impresas o .mobi de las mismas obras, indumentaria, o
+      dispositivos de tinta electrónica.
 values:
   heading: Our values
   text: >-
