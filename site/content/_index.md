@@ -32,11 +32,13 @@ products:
       versiones impresas o .mobi de las mismas obras, indumentaria, o
       dispositivos de tinta electrónica.
 values:
-  heading: Our values
+  heading: Metodología cooperativa
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Las apps MOREL permiten que los usuarios se registren como agregadores, para
+    subir nuevos materiales descargables, o crear fichas de autores, obras,
+    editoriales, ciudades y repositorios. Pero a diferencia de los esquemas
+    “colaborativos” más frecuentes, los produsuarios de MOREL no están
+    concebidos como un consumidor que crea contenidos, sino como potenciales
+    socios de la plataforma.
 ---
 
