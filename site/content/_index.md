@@ -24,7 +24,7 @@ products:
       usuarios también tienen la opción de comprar productos asociados:
       versiones impresas o .mobi de las mismas obras, indumentaria, o
       dispositivos de tinta electrónica.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/litven2.gif
     text: >-
       Los recursos generados sirven para crear nuevos productos: indumentaria,
       ediciones especiales para dispositivos de tinta electrónica, nuevas apps
