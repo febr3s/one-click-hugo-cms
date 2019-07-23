@@ -3,7 +3,7 @@ title: Creamos productos para liberar contenidos
 subtitle: Impulsamos la gestión autoustentable de archivos digitales latinoamericanos
 image: /img/captura-de-pantalla-de-2019-07-21-14-58-20.png
 blurb:
-  heading: Este sitio
+  heading: Primer sitio
   text: >-
     literaturavenezolana.xyz (en construcción) es la primera aplicación de
     MOREL: una metodología de código abierto, para la consulta y descarga
